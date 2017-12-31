@@ -7,5 +7,6 @@ For vim to load the configuration it is needed to create in the home directory a
 When cloning to ~/ usually the following content will suffice:
 
 On .vimrc inside ~/
+
 source ~/conf/vim/.vimrc
 
